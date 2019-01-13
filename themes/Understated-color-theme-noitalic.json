@@ -476,7 +476,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator.type",
       "settings": {
-        "foreground": "#dcdde1",
+        "foreground": "#dcdde1"
       }
     },
     {

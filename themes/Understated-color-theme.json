@@ -461,7 +461,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#ff2c83",
         "foreground": "#f5f6fa"
       }
     },

@@ -1,8 +1,8 @@
 {
   "name": "understated-theme-vscode",
   "displayName": "Understated Theme",
-  "description": "yet another vs code theme.",
-  "version": "0.1.0",
+  "description": "A Visual Studio Code theme for the hipsters out there. Open Source and free for every creature.",
+  "version": "0.1.2",
   "publisher": "hnrchrdl",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -16,6 +16,7 @@
     "Understated"
   ],
   "scripts": {
+    "build": "vsce package",
     "publish": "vsce publish"
   },
   "galleryBanner": {
