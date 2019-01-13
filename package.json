@@ -1,7 +1,7 @@
 {
   "name": "understated-theme-vscode",
   "displayName": "Understated Theme",
-  "description": "A VS Code theme period",
+  "description": "a vs code theme. period. ported from night owl theme.",
   "version": "0.0.1",
   "publisher": "hnrchrdl",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -28,7 +28,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "owl-icon.png",
+  "icon": "understated.png",
   "contributes": {
     "themes": [
       {
