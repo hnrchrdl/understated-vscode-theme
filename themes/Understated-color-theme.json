@@ -33,14 +33,14 @@
     "breadcrumb.focusForeground": "#f5f6fa",
     "breadcrumb.activeSelectionForeground": "#f5f6fa",
     "breadcrumbPicker.background": "#353b48",
-    "list.activeSelectionBackground": "#324523",
-    "list.activeSelectionForeground": "#00a8ff",
+    "list.activeSelectionBackground": "#40739ecc",
+    "list.activeSelectionForeground": "#f5f6fa",
     "list.invalidItemForeground": "#e84118",
     "list.dropBackground": "#40739ecc",
-    "list.focusBackground": "#40739ecc",
+    "list.focusBackground": "#40739e",
     "list.focusForeground": "#f5f6fa",
     "list.highlightForeground": "#f5f6fa",
-    "list.hoverBackground": "#40739ecc",
+    "list.hoverBackground": "#40739e",
     "list.hoverForeground": "#f5f6fa",
     "list.inactiveSelectionBackground": "#40739ecc",
     "list.inactiveSelectionForeground": "#f5f6fa",
@@ -477,6 +477,14 @@
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#00a8ff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keyword Operator",
+      "scope": "keyword.operator.type",
+      "settings": {
+        "foreground": "#dcdde1",
         "fontStyle": ""
       }
     },
